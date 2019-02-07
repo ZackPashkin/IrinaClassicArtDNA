@@ -3,7 +3,8 @@ var template = $('#art-present').html();
 
 var context = {
 
-  "slides": [{
+  "slides": [
+      /*{
       "art-name": "Interchange",
       //"artist-name": "Willem de Kooning",
       "type": "Oil on canvas",
@@ -15,7 +16,7 @@ var context = {
 
 
 
-    },
+    },*/
 
     {
       "art-name": "When Will You Marry?",
