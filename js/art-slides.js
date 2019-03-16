@@ -29,13 +29,13 @@ var context = {
     },
 
     {
-      "art-name": "Some title",
+      "art-name": "Welcome to Saint-Tropez",
       //"artist-name": "Paul Cézanne",
-      "type": "Oil on canvas",
-      "year": "2017",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_C%C3%A9zanne_222.jpg/1280px-Paul_C%C3%A9zanne_222.jpg",
-      "price": "one",
-      "currency": "smt"
+      "price": "",
+      "currency": "France"
     },
 
     {
