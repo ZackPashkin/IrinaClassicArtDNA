@@ -49,23 +49,23 @@ var context = {
     },
 
     {
-      "art-name": "No. 6",
+      "art-name": "Amphitheatre of El Jem",
       //"artist-name": "Mark Rothko",
-      "type": "Oil on canvas",
-      "year": "2017",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/0/03/No._6_%28Violet%2C_Green_and_Red%29.jpg",
-      "price": "yes",
-      "currency": "qwr"
+      "price": "",
+      "currency": "Tunisia"
     },
 
     {
-      "art-name": "Pendant portraits of Maerten Soolmans and Oopjen Coppit",
+      "art-name": "Westminster Bridge",
       //"artist-name": "Rembrandt van Rijn",
-      "type": "Oil on canvas",
-      "year": "2016",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pendant_portraits_of_Maerten_Soolmans_and_Oopjen_Coppit.jpeg",
-      "price": "some",
-      "currency": "text"
+      "price": "",
+      "currency": "Great Britain"
     },
 
     {
