@@ -23,8 +23,8 @@ var context = {
       "type": "",
       "year": "",
       "img-link": "http://bit.ly/2f2KwZ4",
-      "price": "Tunisia",
-      "currency": ""
+      "price": "",
+      "currency": "Tunisia"
 
     },
 
@@ -39,13 +39,13 @@ var context = {
     },
 
     {
-      "art-name": "Number 17A",
+      "art-name": "Hamburg's promenade",
       //"artist-name": "Jackson Pollock",
-      "type": "Oil on fiberboard",
-      "year": "2017",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/f/f2/Number_17A.jpg",
-      "price": "two",
-      "currency": "smt"
+      "price": "",
+      "currency": "Germany"
     },
 
     {
