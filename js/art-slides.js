@@ -19,12 +19,12 @@ var context = {
     },*/
 
     {
-      "art-name": "When Will You Marry?",
-      "type": "Oil on canvas",
-      "year": "2017",
+      "art-name": "Bedouins in Tunisia",
+      "type": "",
+      "year": "",
       "img-link": "http://bit.ly/2f2KwZ4",
-      "price": "some",
-      "currency": "text"
+      "price": "Tunisia",
+      "currency": ""
 
     },
 
