@@ -69,14 +69,14 @@ var context = {
     },
 
     {
-      "art-name": "Les Femmes d'Alger",
+      "art-name": "Hundertwasser's World",
       //"artist-name": "Pablo Picasso",
-      "type": "Oil on canvas",
+      "type": "  ",
 
-      "year": "2017",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
-      "price": "this",
-      "currency": "abc"
+      "price": "",
+      "currency": "Austria"
     },
 
 
