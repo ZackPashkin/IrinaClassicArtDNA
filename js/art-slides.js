@@ -72,7 +72,6 @@ var context = {
       "art-name": "Hundertwasser's World",
       //"artist-name": "Pablo Picasso",
       "type": "  ",
-
       "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
       "price": "",
@@ -81,23 +80,23 @@ var context = {
 
 
     {
-      "art-name": "When Will You Marry?",
-      "type": "Oil on canvas",
-      "year": "2017",
+      "art-name": "Summerset Lulworth",
+      "type": "",
+      "year": "",
       "img-link": "http://bit.ly/2f2KwZ4",
-      "price": "some",
-      "currency": "text"
+      "price": "",
+      "currency": "England"
 
     },
 
     {
-      "art-name": "Some title",
+      "art-name": "NoName",
       //"artist-name": "Paul Cézanne",
-      "type": "Oil on canvas",
-      "year": "2017",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_C%C3%A9zanne_222.jpg/1280px-Paul_C%C3%A9zanne_222.jpg",
-      "price": "one",
-      "currency": "smt"
+      "price": "Scotland",
+      "currency": ""
     },
 
     {
@@ -111,34 +110,34 @@ var context = {
     },
 
     {
-      "art-name": "No. 6",
+      "art-name": "Summerseet House",
       //"artist-name": "Mark Rothko",
-      "type": "Oil on canvas",
-      "year": "2017",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/0/03/No._6_%28Violet%2C_Green_and_Red%29.jpg",
-      "price": "yes",
-      "currency": "qwr"
+      "price": "",
+      "currency": "London"
     },
 
     {
-      "art-name": "Pendant portraits of Maerten Soolmans and Oopjen Coppit",
+      "art-name": "Waterloo Brigde",
       //"artist-name": "Rembrandt van Rijn",
-      "type": "Oil on canvas",
-      "year": "2016",
+      "type": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pendant_portraits_of_Maerten_Soolmans_and_Oopjen_Coppit.jpeg",
-      "price": "some",
-      "currency": "text"
+      "price": "London",
+      "currency": ""
     },
 
     {
-      "art-name": "Les Femmes d'Alger",
+      "art-name": "Amsterstam",
       //"artist-name": "Pablo Picasso",
-      "type": "Oil on canvas",
+      "type": "",
 
-      "year": "2017",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
-      "price": "this",
-      "currency": "abc"
+      "price": "Holland",
+      "currency": ""
     }
     /*
     {
