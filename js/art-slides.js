@@ -99,15 +99,15 @@ var context = {
       "currency": ""
     },
 
-    {
-      "art-name": "Number 17A",
+    //{
+     // "art-name": "Number 17A",
       //"artist-name": "Jackson Pollock",
-      "type": "Oil on fiberboard",
-      "year": "2017",
-      "img-link": "https://upload.wikimedia.org/wikipedia/en/f/f2/Number_17A.jpg",
-      "price": "two",
-      "currency": "smt"
-    },
+    //  "type": "Oil on fiberboard",
+    //  "year": "2017",
+    //  "img-link": "https://upload.wikimedia.org/wikipedia/en/f/f2/Number_17A.jpg",
+    // "price": "two",
+    //  "currency": "smt"
+    // },
 
     {
       "art-name": "Summerseet House",
@@ -138,19 +138,20 @@ var context = {
       "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
       "price": "Holland",
       "currency": ""
-    }
-    /*
+    },
+   
     {
-      "art-name": "Nu couché",
-      "artist-name": "Amedeo Modigliani",
-      "type": "Oil on canvas",
-      "location": "Private collection",
-      "year": "1917",
+      "art-name": "German Castle",
+      //"artist-name": "Amedeo Modigliani",
+      "type": "German Castle",
+      "location": "",
+      "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Modigliani_-_Nu_couch%C3%A9.jpg/1280px-Modigliani_-_Nu_couch%C3%A9.jpg",
-      "price": "240 000",
-      "usd": "170.4",
-      "currency": "btc"
+      "price": "Germany",
+     
+      "currency": ""
     }
+     /*
 
         {
           "art-name": "No. 5, 1948",
