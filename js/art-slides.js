@@ -65,7 +65,7 @@ var context = {
       "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pendant_portraits_of_Maerten_Soolmans_and_Oopjen_Coppit.jpeg",
       "price": "",
-      "currency": "Great Britain"
+      "currency": "London"
     },
 
     {
@@ -95,8 +95,8 @@ var context = {
       "type": "",
       "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_C%C3%A9zanne_222.jpg/1280px-Paul_C%C3%A9zanne_222.jpg",
-      "price": "Scotland",
-      "currency": ""
+      "price": "",
+      "currency": "Scotland"
     },
 
     //{
@@ -125,8 +125,8 @@ var context = {
       "type": "",
       "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pendant_portraits_of_Maerten_Soolmans_and_Oopjen_Coppit.jpeg",
-      "price": "London",
-      "currency": ""
+      "price": "",
+      "currency": "London"
     },
 
     {
@@ -136,8 +136,8 @@ var context = {
 
       "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
-      "price": "Holland",
-      "currency": ""
+      "price": "",
+      "currency": "Holland"
     },
    
     {
@@ -147,9 +147,9 @@ var context = {
       "location": "",
       "year": "",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Modigliani_-_Nu_couch%C3%A9.jpg/1280px-Modigliani_-_Nu_couch%C3%A9.jpg",
-      "price": "Germany",
+      "price": "",
      
-      "currency": ""
+      "currency": "Germany"
     }
      /*
 
